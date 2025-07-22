@@ -1,0 +1,30 @@
+{
+  "name": "Okinawa Travel Guide",
+  "short_name": "Okinawa Guide",
+  "description": "沖縄観光ガイドアプリ - 沖縄の主要観光地情報を提供",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c4a8c",
+  "theme_color": "#0c4a8c",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["travel", "tourism", "guide"],
+  "lang": "ja",
+  "orientation": "portrait"
+}
